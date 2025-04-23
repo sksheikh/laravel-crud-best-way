@@ -1,0 +1,18 @@
+Project requirement
+
+**There will be two types of users:
+    -Admin
+    -Seller
+
+**Seller can create "Offers"
+**Offers will have following properties
+    -Title,
+    -Price,
+    -Categories
+    -Locations
+    -Image(Optional)
+    -Description
+**Seller can edit,delete their Offers
+**Seller can see the list of their Offers
+**Admin can see the list of all the Offers
+**Admin can edit, delete any Offers
