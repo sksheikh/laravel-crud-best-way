@@ -12,6 +12,7 @@ Project requirement
     -Locations
     -Image(Optional)
     -Description
+    -status
 **Seller can edit,delete their Offers
 **Seller can see the list of their Offers
 **Admin can see the list of all the Offers
