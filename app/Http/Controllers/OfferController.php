@@ -9,9 +9,12 @@ class OfferController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function index(Request $request)
     {
-        return view('offer.index');
+
+        return view('offer.index',[
+            'user' => $request->user(),
+        ]);
     }
 
     /**
